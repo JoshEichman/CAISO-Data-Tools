@@ -1,4 +1,7 @@
-%% Initializations
+%% This code connects with CAISO's OASIS API and downloads data files
+% Written by Josh Eichman
+
+%% Initialization
 clear all, close all, clc
 tic;
 
