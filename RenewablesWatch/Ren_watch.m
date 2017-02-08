@@ -1,4 +1,7 @@
 %% This script combines CAISO "Renewables Watch" text file into one spreadsheet
+% First, go to http://www.caiso.com/market/Pages/ReportsBulletins/DailyRenewablesWatch.aspx and download all the text files associated with the renewables watch
+% Second, run this script to combine into one spreadsheet
+%
 % Written by Josh Eichman
 
 %% Initialization
