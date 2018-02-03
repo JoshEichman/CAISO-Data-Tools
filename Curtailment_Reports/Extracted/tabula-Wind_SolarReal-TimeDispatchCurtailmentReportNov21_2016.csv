@@ -1,0 +1,11 @@
+DATE,HOUR,CURT TYPE,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+11/21,4,Economic,Local,WIND,77,197
+11/21,9,Economic,Local,SOLR,2,20
+11/21,10,Economic,Local,SOLR,0,5
+11/21,11,Economic,System,SOLR,0,0
+11/21,12,Economic,System,SOLR,1,
+11/21,12,Economic,System,WIND,1,9
+11/21,13,Economic,System,SOLR,0,
+11/21,13,Economic,System,WIND,13,153
+11/21,14,Economic,System,SOLR,0,1
+11/21,15,Economic,System,SOLR,0,2

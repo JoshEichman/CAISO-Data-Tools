@@ -1,0 +1,61 @@
+TYPE,YTD CURTAILED MWH
+LocalEconomic,"63,339"
+LocalExDispatch,272
+LocalSelfSchCut,"2,770"
+SystemEconomic,"150,485"
+SystemExDispatch,74
+SystemSelfSchCut,550
+TOTAL,"217,491"
+DATE,HOU CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+"",R,,,,,
+04/19,8 Economic,,Local,SOLR,1,
+04/19,8 Economic,,System,SOLR,48,304
+04/19,8 Economic,,System,WIND,0,0
+04/19,9 Economic,,Local,SOLR,67,119
+04/19,9 Economic,,Local,WIND,0,
+04/19,9 Economic,,System,SOLR,270,544
+04/19,9 Economic,,System,WIND,0,0
+04/19,9 ExDispatch,,System,SOLR,2,
+04/19,10 Economic,,Local,SOLR,5,
+04/19,10 Economic,,System,SOLR,4,47
+04/19,10 ExDispatch,,Local,SOLR,16,
+04/19,10 ExDispatch,,System,SOLR,6,26
+04/19,10 SelfSchCut,,Local,SOLR,1,
+04/19,11 Economic,,Local,SOLR,21,39
+04/19,11 ExDispatch,,Local,SOLR,29,30
+04/19,11 ExDispatch,,Local,WIND,0,3
+04/19,12 Economic,,Local,SOLR,22,43
+04/19,12 ExDispatch,,Local,SOLR,33,30
+04/19,12 ExDispatch,,Local,WIND,0,
+04/19,12 ExDispatch,,System,SOLR,3,
+04/19,12 ExDispatch,,System,WIND,1,3
+04/19,13 Economic,,Local,SOLR,22,32
+04/19,13 ExDispatch,,Local,SOLR,41,43
+04/19,13 ExDispatch,,System,SOLR,2,
+04/19,13 SelfSchCut,,Local,SOLR,0,
+04/19,14 Economic,,Local,SOLR,42,128
+04/19,14 ExDispatch,,Local,SOLR,36,44
+04/19,14 ExDispatch,,System,SOLR,7,
+04/19,15 Economic,,Local,SOLR,172,307
+04/19,15 Economic,,System,SOLR,31,
+04/19,15 Economic,,System,WIND,1,
+04/19,15 ExDispatch,Local,SOLR,39,43
+04/19,15 ExDispatch,System,SOLR,5,
+04/19,16 Economic,Local,SOLR,6,
+04/19,16 Economic,System,SOLR,419,637
+04/19,16 Economic,System,WIND,10,16
+04/19,16 ExDispatch,Local,SOLR,24,
+04/19,16 ExDispatch,System,SOLR,14,14
+04/19,16 SelfSchCut,Local,SOLR,0,
+04/19,17 Economic,Local,SOLR,134,
+04/19,17 Economic,Local,WIND,2,
+04/19,17 Economic,System,SOLR,410,768
+04/19,17 Economic,System,WIND,5,8
+04/19,17 ExDispatch,Local,SOLR,3,
+04/19,17 ExDispatch,System,SOLR,11,12
+04/19,17 SelfSchCut,Local,SOLR,0,
+04/19,18 Economic,System,SOLR,181,676
+04/19,18 Economic,System,WIND,3,6
+04/19,19 Economic,Local,SOLR,1,
+04/19,19 Economic,System,SOLR,19,75
+04/19,19 Economic,System,WIND,3,19

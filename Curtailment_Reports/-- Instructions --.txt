@@ -1,0 +1,13 @@
+Instructions to digitize the curtailment PDF files from the CAISO
+
+1) Go to http://www.caiso.com/market/Pages/ReportsBulletins/DailyRenewablesWatch.aspx#curtailment and download the desired curtailment report files. I recommend using a batch downloader (e.g., DownloadThemAll!)
+
+2) Download the java release of Tabula (https://github.com/tabulapdf/tabula-java/releases) and place near the reports
+
+3) Open command line navigate to java file location and run: java -jar ./target/tabula-0.9.2-jar-with-dependencies.jar -b <LOCATION OF REPORTS> -p all -l -g 
+	Change "./target" and <LOCATION OF REPORTS> for the appropriate locations
+	e.g., java -jar tabula-0.9.2-jar-with-dependencies.jar -b Updated_2017_09_14/ -p all -l -g
+
+4) Then navigate in command prompt to the folder with the new csv files and run: copy *.csv all_data1.csv
+
+5) Clean up all_data1.csv 

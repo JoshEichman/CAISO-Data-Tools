@@ -1,0 +1,19 @@
+DATE,HOUR CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+04/05,8 Economic,,Local,SOLR,61,234
+04/05,9 Economic,,Local,SOLR,69,193
+04/05,10 Economic,,Local,SOLR,38,104
+04/05,10 Economic,,System,SOLR,0,
+04/05,11 Economic,,Local,SOLR,29,131
+04/05,12 Economic,,Local,SOLR,19,34
+04/05,12 SelfSchCut,,Local,SOLR,1,5
+04/05,13 Economic,,Local,SOLR,23,37
+04/05,13 SelfSchCut,,Local,SOLR,1,11
+04/05,14 Economic,,Local,SOLR,15,19
+04/05,14 SelfSchCut,,Local,SOLR,5,10
+04/05,15 Economic,,Local,SOLR,17,17
+04/05,15 SelfSchCut,,Local,SOLR,2,9
+04/05,16 Economic,,Local,SOLR,12,14
+04/05,16 SelfSchCut,,Local,SOLR,1,3
+04/05,17 Economic,,Local,SOLR,3,6
+04/05,17 Economic,,System,SOLR,0,
+04/05,18 Economic,,Local,SOLR,1,3

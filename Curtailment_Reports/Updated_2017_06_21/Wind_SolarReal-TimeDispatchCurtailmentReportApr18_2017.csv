@@ -1,0 +1,15 @@
+TYPE,YTD CURTAILED MWH
+LocalEconomic,"62,846"
+LocalExDispatch,50
+LocalSelfSchCut,"2,769"
+SystemEconomic,"149,080"
+SystemExDispatch,24
+SystemSelfSchCut,550
+TOTAL,"215,319"
+DATE,HOU CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+"",R,,,,,
+04/18,9 Economic,,Local,SOLR,0,2
+04/18,11 Economic,,System,SOLR,1,14
+04/18,12 Economic,,System,SOLR,4,44
+04/18,19 Economic,,System,SOLR,6,10
+04/18,24 Economic,,Local,WIND,14,155

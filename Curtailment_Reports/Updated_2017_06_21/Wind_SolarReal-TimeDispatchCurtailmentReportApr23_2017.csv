@@ -1,0 +1,62 @@
+TYPE,YTD CURTAILED MWH
+LocalEconomic,"65,801"
+LocalExDispatch,272
+LocalSelfSchCut,"2,831"
+SystemEconomic,"163,287"
+SystemExDispatch,74
+SystemSelfSchCut,550
+TOTAL,"232,817"
+DATE,HOU CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+"",R,,,,,
+04/23,6 Economic,,System,WIND,2,24
+04/23,7 Economic,,Local,SOLR,4,1
+04/23,7 Economic,,Local,WIND,15,4
+04/23,7 Economic,,System,SOLR,22,101
+04/23,7 Economic,,System,WIND,1,
+04/23,8 Economic,,Local,SOLR,2,
+04/23,8 Economic,,Local,WIND,9,
+04/23,8 Economic,,System,SOLR,441,915
+04/23,8 Economic,,System,WIND,64,326
+04/23,9 Economic,,Local,SOLR,276,1139
+04/23,9 Economic,,Local,WIND,8,32
+04/23,9 Economic,,System,SOLR,571,
+04/23,9 Economic,,System,WIND,13,
+04/23,10 Economic,,Local,SOLR,305,62
+04/23,10 Economic,,Local,WIND,5,
+04/23,10 Economic,,System,SOLR,760,1167
+04/23,10 Economic,,System,WIND,9,3
+04/23,10 SelfSchCut,,Local,SOLR,5,6
+04/23,11 Economic,,Local,SOLR,66,49
+04/23,11 Economic,,System,SOLR,851,1154
+04/23,11 Economic,,System,WIND,8,4
+04/23,11 SelfSchCut,,Local,SOLR,11,10
+04/23,12 Economic,,Local,SOLR,108,39
+04/23,12 Economic,,Local,WIND,0,
+04/23,12 Economic,,System,SOLR,907,1217
+04/23,12 Economic,,System,WIND,13,32
+04/23,12 SelfSchCut,,Local,SOLR,5,4
+04/23,13 Economic,,Local,SOLR,41,41
+04/23,13 Economic,,System,SOLR,1252,1427
+04/23,13 Economic,,System,WIND,14,21
+04/23,13 SelfSchCut,,Local,SOLR,16,14
+04/23,14 Economic,Local,SOLR,38,35
+04/23,14 Economic,System,SOLR,1050,1198
+04/23,14 Economic,System,WIND,35,0
+04/23,14 SelfSchCut,Local,SOLR,14,21
+04/23,15 Economic,Local,SOLR,31,39
+04/23,15 Economic,System,SOLR,749,1086
+04/23,15 Economic,System,WIND,37,31
+04/23,15 SelfSchCut,Local,SOLR,3,3
+04/23,16 Economic,Local,SOLR,88,20
+04/23,16 Economic,Local,WIND,3,
+04/23,16 Economic,System,SOLR,613,919
+04/23,16 Economic,System,WIND,31,41
+04/23,16 SelfSchCut,Local,SOLR,1,2
+04/23,17 Economic,Local,SOLR,13,10
+04/23,17 Economic,System,SOLR,242,850
+04/23,17 Economic,System,WIND,4,10
+04/23,17 SelfSchCut,Local,SOLR,1,0
+04/23,18 Economic,Local,SOLR,18,8
+04/23,18 Economic,System,SOLR,10,119
+04/23,18 SelfSchCut,Local,SOLR,2,4
+04/23,24 Economic,System,WIND,3,38

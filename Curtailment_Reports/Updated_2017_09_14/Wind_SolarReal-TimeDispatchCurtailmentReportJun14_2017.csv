@@ -1,0 +1,37 @@
+TYPE,YTD CURTAILED MWH
+LocalEconomic,"87,768"
+LocalExDispatch,"1,268"
+LocalSelfSchCut,"3,677"
+SystemEconomic,"208,419"
+SystemExDispatch,411
+SystemSelfSchCut,828
+TOTAL,"302,372"
+DATE,HOU CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+"",R,,,,,
+06/14,8 Economic,,Local,SOLR,5,
+06/14,8 Economic,,System,SOLR,19,46
+06/14,9 Economic,,Local,SOLR,42,89
+06/14,9 Economic,,System,SOLR,13,
+06/14,9 ExDispatch,,Local,SOLR,0,0
+06/14,9 ExDispatch,,System,SOLR,0,
+06/14,10 Economic,,Local,SOLR,23,102
+06/14,10 ExDispatch,,Local,SOLR,0,
+06/14,10 ExDispatch,,System,SOLR,0,
+06/14,11 Economic,,Local,SOLR,5,9
+06/14,11 ExDispatch,,Local,SOLR,1,2
+06/14,11 ExDispatch,,System,SOLR,0,
+06/14,11 SelfSchCut,,Local,SOLR,1,3
+06/14,12 Economic,,Local,SOLR,15,17
+06/14,12 ExDispatch,,Local,SOLR,1,0
+06/14,12 SelfSchCut,,Local,SOLR,0,1
+06/14,13 Economic,,Local,SOLR,8,16
+06/14,13 ExDispatch,,Local,SOLR,0,1
+06/14,13 ExDispatch,,System,SOLR,0,
+06/14,13 SelfSchCut,,Local,SOLR,0,
+06/14,14 Economic,,Local,SOLR,8,11
+06/14,14 SelfSchCut,,Local,SOLR,1,
+06/14,15 Economic,,Local,SOLR,2,2
+06/14,15 Economic,,System,SOLR,1,15
+06/14,16 Economic,,Local,SOLR,0,0
+06/14,17 Economic,,Local,SOLR,0,1
+06/14,17 ExDispatch,,Local,SOLR,0,

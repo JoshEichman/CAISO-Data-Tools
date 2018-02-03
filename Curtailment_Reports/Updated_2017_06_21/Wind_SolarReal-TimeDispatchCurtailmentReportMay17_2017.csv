@@ -1,0 +1,48 @@
+TYPE,YTD CURTAILED MWH
+LocalEconomic,"78,079"
+LocalExDispatch,942
+LocalSelfSchCut,"3,420"
+SystemEconomic,"189,564"
+SystemExDispatch,278
+SystemSelfSchCut,820
+TOTAL,"273,102"
+DATE,HOU CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+"",R,,,,,
+05/17,7 Economic,,Local,SOLR,0,3
+05/17,8 Economic,,Local,SOLR,34,131
+05/17,9 Economic,,Local,SOLR,133,303
+05/17,9 Economic,,System,SOLR,1,
+05/17,9 ExDispatch,,Local,SOLR,0,
+05/17,9 ExDispatch,,System,SOLR,0,
+05/17,10 Economic,,Local,SOLR,299,384
+05/17,10 ExDispatch,,Local,SOLR,1,2
+05/17,11 Economic,,Local,SOLR,91,445
+05/17,11 Economic,,Local,WIND,13,82
+05/17,11 Economic,,System,SOLR,26,
+05/17,11 ExDispatch,,Local,SOLR,1,3
+05/17,11 SelfSchCut,,Local,SOLR,0,
+05/17,11 SelfSchCut,,Local,WIND,2,7
+05/17,12 Economic,,Local,SOLR,132,201
+05/17,12 Economic,,System,SOLR,58,
+05/17,12 ExDispatch,,Local,SOLR,1,2
+05/17,13 Economic,,Local,SOLR,45,8
+05/17,13 Economic,,System,SOLR,234,361
+05/17,13 ExDispatch,,Local,SOLR,1,0
+05/17,14 Economic,,Local,SOLR,33,18
+05/17,14 Economic,,System,SOLR,88,300
+05/17,14 ExDispatch,,Local,SOLR,3,3
+05/17,15 Economic,,Local,SOLR,28,11
+05/17,15 Economic,,System,SOLR,31,62
+05/17,15 ExDispatch,,Local,SOLR,2,2
+05/17,15 SelfSchCut,,Local,SOLR,0,
+05/17,16 Economic,,Local,SOLR,16,39
+05/17,16 Economic,,System,SOLR,1,
+05/17,16 ExDispatch,,Local,SOLR,0,0
+05/17,16 SelfSchCut,,Local,SOLR,1,
+05/17,17 Economic,Local,SOLR,13,27
+05/17,17 ExDispatch,Local,SOLR,0,0
+05/17,18 Economic,Local,SOLR,6,11
+05/17,18 Economic,System,SOLR,8,27
+05/17,18 ExDispatch,Local,SOLR,0,0
+05/17,18 ExDispatch,System,SOLR,0,
+05/17,19 ExDispatch,System,SOLR,0,0

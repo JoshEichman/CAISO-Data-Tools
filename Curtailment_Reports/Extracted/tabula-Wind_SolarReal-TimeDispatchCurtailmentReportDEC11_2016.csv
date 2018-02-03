@@ -1,0 +1,21 @@
+DATE,"HOUR",CURT TYPE,REASON,FUEL TYPE,"CURTAILEDMWH","CURTAILEDMW"
+12/11,9,Economic,System,WIND,4,47
+12/11,10,Economic,System,SOLR,10,110
+12/11,10,Economic,System,WIND,25,129
+12/11,11,Economic,Local,SOLR,21,147
+12/11,11,Economic,Local,WIND,22,124
+12/11,11,Economic,System,SOLR,1,
+12/11,11,Economic,System,WIND,51,
+12/11,12,Economic,Local,SOLR,554,801
+12/11,12,Economic,Local,WIND,118,127
+12/11,13,Economic,Local,SOLR,311,597
+12/11,13,Economic,Local,WIND,83,112
+12/11,14,Economic,Local,SOLR,308,582
+12/11,14,Economic,Local,WIND,98,103
+12/11,15,Economic,Local,SOLR,241,538
+12/11,15,Economic,Local,WIND,104,135
+12/11,15,Economic,System,WIND,1,
+12/11,16,Economic,Local,WIND,8,92
+12/11,16,Economic,System,SOLR,0,
+12/11,16,Economic,System,WIND,8,
+12/11,17,Economic,Local,WIND,15,65

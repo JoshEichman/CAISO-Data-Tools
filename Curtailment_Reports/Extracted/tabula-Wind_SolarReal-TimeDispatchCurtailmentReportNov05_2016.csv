@@ -1,0 +1,11 @@
+DATE,"HOUR",CURT TYPE,REASON,FUEL TYPE,"CURTAILEDMWH","CURTAILEDMW"
+11/05,10,Economic,Local,SOLR,428,768
+11/05,10,Economic,Local,WIND,0,
+11/05,11,Economic,Local,SOLR,273,374
+11/05,11,Economic,Local,WIND,0,
+11/05,12,Economic,Local,SOLR,195,320
+11/05,12,Economic,Local,WIND,0,
+11/05,13,Economic,Local,WIND,0,1
+11/05,16,Economic,Local,SOLR,32,113
+11/05,17,Economic,Local,SOLR,1,7
+11/05,24,Economic,System,WIND,1,15

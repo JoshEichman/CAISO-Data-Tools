@@ -1,0 +1,66 @@
+TYPE,YTD CURTAILED MWH
+LocalEconomic,"69,121"
+LocalExDispatch,505
+LocalSelfSchCut,"3,123"
+SystemEconomic,"174,411"
+SystemExDispatch,142
+SystemSelfSchCut,612
+TOTAL,"247,913"
+DATE,HOU CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+"",R,,,,,
+04/30,7 Economic,,Local,SOLR,0,
+04/30,7 Economic,,System,SOLR,0,1
+04/30,8 Economic,,Local,SOLR,93,
+04/30,8 Economic,,Local,WIND,4,
+04/30,8 Economic,,System,SOLR,444,1215
+04/30,8 Economic,,System,WIND,30,111
+04/30,8 SelfSchCut,,System,SOLR,30,171
+04/30,8 SelfSchCut,,System,WIND,31,178
+04/30,9 Economic,,Local,SOLR,95,
+04/30,9 Economic,,System,SOLR,795,1212
+04/30,9 Economic,,System,WIND,3,36
+04/30,9 SelfSchCut,,Local,SOLR,1,
+04/30,10 Economic,,Local,SOLR,253,260
+04/30,10 Economic,,System,SOLR,1011,1133
+04/30,10 Economic,,System,WIND,0,0
+04/30,10 ExDispatch,,Local,SOLR,0,
+04/30,10 SelfSchCut,,Local,SOLR,6,9
+04/30,11 Economic,,Local,SOLR,235,110
+04/30,11 Economic,,Local,WIND,0,
+04/30,11 Economic,,System,SOLR,571,852
+04/30,11 Economic,,System,WIND,0,0
+04/30,11 ExDispatch,,Local,SOLR,7,7
+04/30,11 SelfSchCut,,Local,SOLR,8,8
+04/30,12 Economic,,Local,SOLR,31,32
+04/30,12 Economic,,System,SOLR,407,903
+04/30,12 Economic,,System,WIND,0,0
+04/30,12 ExDispatch,,Local,SOLR,9,8
+04/30,12 SelfSchCut,,Local,SOLR,12,8
+04/30,13 Economic,,Local,SOLR,42,31
+04/30,13 Economic,,System,SOLR,46,184
+04/30,13 ExDispatch,,Local,SOLR,19,14
+04/30,13 SelfSchCut,Local,SOLR,3,13
+04/30,14 Economic,Local,SOLR,23,13
+04/30,14 Economic,System,SOLR,4,50
+04/30,14 ExDispatch,Local,SOLR,16,13
+04/30,14 ExDispatch,System,SOLR,4,7
+04/30,14 SelfSchCut,Local,SOLR,0,0
+04/30,15 Economic,Local,SOLR,39,26
+04/30,15 Economic,System,SOLR,82,191
+04/30,15 ExDispatch,Local,SOLR,14,12
+04/30,15 ExDispatch,System,SOLR,4,7
+04/30,15 SelfSchCut,Local,SOLR,0,
+04/30,16 Economic,Local,SOLR,27,16
+04/30,16 Economic,System,SOLR,357,640
+04/30,16 Economic,System,WIND,0,0
+04/30,16 ExDispatch,Local,SOLR,3,5
+04/30,16 ExDispatch,System,SOLR,9,7
+04/30,16 SelfSchCut,Local,SOLR,1,0
+04/30,17 Economic,Local,SOLR,9,18
+04/30,17 Economic,System,SOLR,205,608
+04/30,17 ExDispatch,System,SOLR,1,4
+04/30,17 SelfSchCut,Local,SOLR,1,
+04/30,18 Economic,Local,SOLR,0,2
+04/30,18 Economic,System,SOLR,6,38
+04/30,18 SelfSchCut,Local,SOLR,0,3
+04/30,20 SelfSchCut,Local,SOLR,0,0

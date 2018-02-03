@@ -1,0 +1,24 @@
+DATE,HOUR CURT TYPE,,REASON,FUEL TYPE,CURTAILED MWH,CURTAILED MW
+04/04,1 Economic,,System,WIND,6,73
+04/04,3 Economic,,System,WIND,3,39
+04/04,5 Economic,,System,WIND,4,26
+04/04,9 Economic,,Local,SOLR,0,
+04/04,9 Economic,,System,SOLR,92,251
+04/04,9 Economic,,System,WIND,1,4
+04/04,10 Economic,,Local,SOLR,2,
+04/04,10 Economic,,System,SOLR,1,11
+04/04,11 Economic,,Local,SOLR,7,13
+04/04,12 Economic,,Local,SOLR,20,25
+04/04,12 Economic,,System,SOLR,1,15
+04/04,13 Economic,,Local,SOLR,38,72
+04/04,13 Economic,,System,SOLR,6,
+04/04,13 SelfSchCut,,Local,SOLR,0,
+04/04,14 Economic,,Local,SOLR,30,34
+04/04,14 SelfSchCut,,Local,SOLR,0,
+04/04,15 Economic,,Local,SOLR,9,27
+04/04,16 Economic,,Local,SOLR,3,9
+04/04,16 Economic,,System,SOLR,0,
+04/04,17 Economic,,Local,SOLR,0,
+04/04,17 Economic,,System,SOLR,0,5
+04/04,18 Economic,,Local,SOLR,1,11
+04/04,18 Economic,,System,SOLR,1,
