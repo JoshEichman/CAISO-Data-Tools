@@ -5,7 +5,7 @@
 clear all, close all, clc
 tic;
 
-year_range = 2018;  % Select specific or range of years
+year_range = 2018:2019;  % Select specific or range of years
 month_range = 1:12; % Select specific or range of months
 
 file_size = 0.01;   % Set lower limit for file size (kB)(will repeat step if size is not correct)
@@ -24,7 +24,7 @@ progress_calc2 = datenum(max(year_range),max(month_range),max(max(calendar(max(y
 
 
 %% Inputs
-Select_data = 8; %(1=PRC_LMP_DA, 2=PRC_AS_DA, 3=PRC_FUEL, 4=ATL_Resource, 5=ATL_PNODE, 6=ENE_SLRS, 7=DAM_PRC_AS_GRP)
+Select_data = 8; %(1=PRC_LMP_DA, 2=PRC_AS_DA, 3=PRC_FUEL, 4=ATL_Resource, 5=ATL_PNODE, 6=ENE_SLRS, 7=DAM_PRC_AS_GRP, 8=DLAP LMP, 9=DLAP Interval LMP)
 if Select_data==1     %% PRC_LMP DA
     id0 = {'queryname=',...         %1
            '&startdatetime=',...    %2
@@ -181,10 +181,30 @@ elseif Select_data==8
            '',...                   %4
            '1',...                  %5
            'DAM',...                %6
-           'DLAP_SDGE-APND',...      %7  DLAP: PGAE, SCE, SDGE, VEA
+           'DLAP_SCE-APND',...      %7  DLAP: PGAE, SCE, SDGE, VEA
            '6',...                  %8
            ''};                     %9 
-    pause_vals = [5,5,5];          %   Select time for pauses
+    pause_vals = [5,5,5];           %   Select time for pauses
+elseif Select_data==9   
+    id0 = {'http://oasis.caiso.com/oasisapi/SingleZip?',... %1
+           'queryname=',...         %2
+           '&startdatetime=',...    %3
+           '&enddatetime=',...      %4
+           '&version=',...          %5  
+           '&market_run_id=',...    %6
+           '&node=',...             %7
+           '&resultformat=',...     %8 Create CSV with resultformat=6
+           ''};                     %9
+    id1 = {'',...                   %1
+           'PRC_INTVL_LMP',...      %2
+           '',...                   %3
+           '',...                   %4
+           '1',...                  %5
+           'DAM',...                %6
+           'DLAP_SCE-APND',...     %7  DLAP: PGAE, SCE, SDGE, VEA
+           '6',...                  %8
+           ''};                     %9 
+    pause_vals = [5,5,5];           %   Select time for pauses
 end
 id00=id0;   %Reserve for later use  
 id11=id1;   %Reserve for later use
